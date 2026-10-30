@@ -1,0 +1,6 @@
+{
+  "name": "Umar Battle Royale",
+  "description": "A 3D third-person battle royale survival shooter game with island map, plane drop, 30 AI bots, weapons, safe zone storm, and stylized low-poly graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
